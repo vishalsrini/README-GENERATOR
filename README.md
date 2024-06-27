@@ -1,6 +1,4 @@
-# Project Title
-
-README Generator
+# README Generator
 
 ## Project Overview
 
@@ -72,7 +70,7 @@ Contributions to the README Generator are welcome and encouraged! If you would l
 For any questions, issues, or feedback, please contact the developer:
 
 - Name: Vishal Srinivasan
-- Email: vishalsri.89@gmail.com
+- Email: vishalvishal619@gmail.com
 
 ## Future Enhancements
 
