@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Allows users to point to their project and then it will generate a readme file using that project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "readme",
+    "generator",
+    "vishalsrini"
+  ],
+  "author": "Vishal Srinivasan",
+  "license": "ISC",
+  "dependencies": {
+    "langchain": "^0.0.211",
+    "openai": "^4.52.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
